@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A comprehensive Library Management System featuring OOP architecture, normalized relational database tracking, book issue/return workflows, fine calculation, parameterized queries, and circulation reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
